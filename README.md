@@ -1,6 +1,49 @@
 
 ***
 
+# Medicinal ethics
+
+## Software
+
+Software support should be as ethical as possible and there should be a way to pull the plug on a project without causing the hospital to go down. You should wait until as many hospitals and medical centers migrate first before you even think of pulling the plug.
+
+Software must go through a thorough development cycle, and must be made as stable as possible before sending out a candidate. The candidate has to be reliable, the cost of error is human life. Test the software for at least 3 months straight first.
+
+### Hacking
+
+Hacking a hospital is highly unethical, and should be considered a war crime.
+
+No one should condone hacking a hospital.
+
+### Spyware
+
+In no way should hospital software EVER contain spyware or ransomware. This includes even going down to the level of basic analytics and collecting more than 1 byte of data per patient without it going into the patients records.
+
+### Operating system
+
+Please keep your hospital computers up to date. For Windows devices, it should always have some sort of security support. This means you shouldn't use normal Windows XP after 2014, and you shouldn't use any variant of Windows XP after 2019, you shouldn't use Windos Vista after 2019, and so on.
+
+If you are a Linux based hospital, you don't have to be as worried, but made sure not to fall back more than 2 major kernel releases (in example, when Linux kernel 6 comes out, you shouldn't be using Linux kernel 4 anymore)
+
+If you plan to run MacOS at a hospital, you don't have to be as worried as if running Windows, but you still shouldn't fall more than 4 years behind.
+
+## Hardware
+
+### Maintenance
+
+A hospital should be kept up to date, no matter the cost. When should a hospital upgrade? At least once every 5-10 years.
+
+## Property
+
+A hospital should not be bombed or destroyed in a combative conflict. This is a war crime.
+
+**This list needs updates**
+
+***
+
+<!--
+***
+
 # <projectName>
 
 ![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
@@ -9,7 +52,7 @@
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
-## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
+<!-- ## [Seanpm2001](https://github.com/seanpm2001/), [<developerName>](https://github.com/<developerName>/) Et; Al.
 
 
 ### Top
